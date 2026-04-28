@@ -1,6 +1,6 @@
 Package: seqLogo
 Title: Sequence logos for DNA sequence alignments
-Version: 1.77.0
+Version: 1.78.0
 Authors@R: 
     c(person(given="Oliver", family="Bembom", 
              role = c("aut"), email = "oliver.bembom@gmail.com"),
